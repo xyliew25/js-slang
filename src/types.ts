@@ -98,7 +98,7 @@ export enum Variant {
   CONCURRENT = 'concurrent',
   GPU = 'gpu',
   EXPLICIT_CONTROL = 'explicit-control',
-  MULTI_THREADED = "multi-thread"
+  MULTI_THREADED = 'multi-thread'
 }
 
 export interface Language {
